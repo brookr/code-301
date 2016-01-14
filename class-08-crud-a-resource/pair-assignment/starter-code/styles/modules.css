@@ -7,6 +7,39 @@
   padding: 0 0 .2em 1em;
 }
 
+<<<<<<< HEAD:class-05-recap-pair-project/lecture-code/styles/modules.css
+#filters {
+  padding: 0;
+  list-style: none;
+}
+
+#filters select {
+  width: 20em;
+  margin: .2em 0;
+}
+
+/*.tab-content {
+  display: none;
+}*/
+
+.template {
+  display: none;
+}
+
+.draft {
+  display: none;
+}
+
+.byline {
+  color: #777;
+}
+
+.byline a {
+  font-weight: bold;
+}
+
+=======
+>>>>>>> ad460faf95859908ff854b26a7dc6f6f40d4f75d:class-08-crud-a-resource/pair-assignment/starter-code/styles/modules.css
 .icon-menu {
   font-size: 3em;
   float: right;
