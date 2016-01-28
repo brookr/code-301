@@ -3,7 +3,14 @@
 Databases power web applications everywhere by enabling them to persist, modify, and query datasets to great effect. While there are many types of database options available now, Structured Query Language (SQL) remains the de facto standard for communicating with relational database systems. Let's build some SQL skills!
 
 ## Useful resources.
+ - [SQL Cheat Sheet](http://www.cheat-sheets.org/sites/sql.su/)
  - [SQLBolt](http://sqlbolt.com/) -- Interactive SQL Tutorial
  - [WebSQL introduction and example](http://html5doctor.com/introducing-web-sql-databases/)
  - [html5sql library](http://html5sql.com/) -- This is what powers the `webDB` object. Peek under the hood!
  - [Query String Primer](https://en.wikipedia.org/wiki/Query_string)
+ 
+## Class Videos
+ - [Part 1 of 4](https://youtu.be/TnI6tqx2iJo)
+ - [Part 2 of 4](https://youtu.be/HWtrCuA8qFA)
+ - [Part 3 of 4](https://youtu.be/kEge1TzlKuw)
+ - [Part 4 of 4](https://youtu.be/Q_piP_pfkd8)
