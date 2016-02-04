@@ -16,6 +16,8 @@ Now that we understand how applications can handle different URLs, we can write 
 
 ## User Stories: Stretch goals
  1. As the site owner, I want my lists of GitHub activity well designed, so visitors like looking at my page.
+  - Start with a wireframe sketch of how you'd like the page to looking
+  - Apply styles, as you've learned: icons, typography, colors, etc.
  1. As the site owner, I also want to show off other recent GitHub activity, so that everyone knows how active I am on GitHub.
   - Get creative with the data available to you via the GitHub API!
   - Want to create links to your gists?
